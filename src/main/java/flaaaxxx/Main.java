@@ -14,6 +14,8 @@ public class Main {
         QueryExecutor.executeQueriesInOneTransaction(queries);
         // pierwsza modyfikacja pliku
 
+        System.out.println("Hello Poland");
+
     }
 
     private void name() {
