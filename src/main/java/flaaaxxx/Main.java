@@ -15,4 +15,8 @@ public class Main {
         // pierwsza modyfikacja pliku
 
     }
+
+    private void name() {
+        System.out.println("Zmiana w drugim repo");
+    }
 }
