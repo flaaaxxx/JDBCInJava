@@ -14,7 +14,7 @@ public class Main {
         QueryExecutor.executeQueriesInOneTransaction(queries);
         // pierwsza modyfikacja pliku
 
-        System.out.println("Hello MAIN");
+        System.out.println("Hello Intellij and Main");
 
     }
 
