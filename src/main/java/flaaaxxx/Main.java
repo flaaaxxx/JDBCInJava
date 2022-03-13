@@ -12,6 +12,7 @@ public class Main {
         queries.add("UPDATE user set password = \"1\" WHERE username LIKE \"nnnn\";");
         queries.add("UPDATE user set password = \"4\" WHERE username LIKE \"aaaa\";");
         QueryExecutor.executeQueriesInOneTransaction(queries);
+        // pierwsza modyfikacja pliku
 
     }
 }
